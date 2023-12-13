@@ -3,7 +3,7 @@
 
 | #  | Project                   | Live Demo           |
 |----|---------------------------|---------------------|
-| 01 | [animated-navigation](animated-navigation)           | [Live Demo](https://YueliZhu-Raymond.github.io/practice/animated-navigation/index.html) |
+| 01 | [animated-navigation](animated-navigation)           | [Live Demo](https://yuelizhu-raymond.github.io/practice/animated-navigation/index.html) |
 | 02 | Progress Steps            | [Live Demo](#)      |
 | 03 | Rotating Navigation Animation | [Live Demo](#)  |
 | 04 | Hidden Search Widget      | [Live Demo](#)      |
