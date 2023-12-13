@@ -1,4 +1,4 @@
-245# JS Project practice
+# JS Project practice
 
 
 | #  | Project                   | Live Demo           |
