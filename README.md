@@ -1,4 +1,12 @@
-# JS Project practice
+# JS 50 Days Challenge – Custom Edition ✨
+
+A personalized version of the popular [50 Projects in 50 Days](https://github.com/bradtraversy/50projects50days) JavaScript challenge by Brad Traversy.
+
+This repo showcases **50 mini frontend projects** built using **HTML, CSS, and JavaScript**, with some creative customizations added along the way — such as design tweaks, feature enhancements, and additional interactivity.
+
+> 🛠️ Great for learning DOM manipulation, event handling, animations, and UI patterns.
+
+## 🔗 Project Index
 
 
 | #  | Project                   | Live Demo           |
