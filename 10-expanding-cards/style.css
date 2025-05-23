@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: linear-gradient(120deg, #16213e, #1f4068);
+}
+
+.container {
+    display: flex;
+    width: 90vw;
+    gap: 12px;
+}
+
+.panel {
+    flex: 0.5;
+    height: 80vh;
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    position: relative;
+    cursor: pointer;
+    transition: flex 0.7s ease-in-out, filter 0.3s;
+    box-shadow: 0 0 12px rgba(255, 255, 255, 0.2);
+    overflow: hidden;
+    filter: grayscale(40%) brightness(0.9);
+}
+
+.panel:hover {
+    filter: grayscale(0%) brightness(1.1);
+}
+
+.panel h3 {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    font-size: 24px;
+    padding: 4px 8px;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(3px);
+    border-left: 4px solid #e94560;
+    color: #ffffff;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+}
+
+.panel.active {
+    flex: 5;
+    filter: grayscale(0%) brightness(1.15);
+    box-shadow: 0 0 24px #e94560;
+}
+
+.panel.active h3 {
+    opacity: 1;
+}
+
+::-webkit-scrollbar {
+    height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #e94560;
+    border-radius: 4px;
+}
+
