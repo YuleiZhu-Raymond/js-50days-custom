@@ -20,5 +20,5 @@ This repo showcases **50 mini frontend projects** built using **HTML, CSS, and J
 | 08  | [progress-steps](progress-steps)           | [Live Demo](https://yuleizhu-raymond.github.io/js-50days-custom/progress-steps/index.html)      |
 | 09  | [scroll-animation](scroll-animation)       | [Live Demo](https://yuleizhu-raymond.github.io/js-50days-custom/scroll-animation/index.html)    |
 | 10  | [expanding-cards](10-expanding-cards)      | [Live Demo](https://yuleizhu-raymond.github.io/js-50days-custom/10-expanding-cards/index.html)  |
-| 11  | [rotating-nav](11-rotating-nav)            | [Live Demo](https://your-github-username.github.io/js-50days-custom/11-rotating-nav/index.html) |
+| 11  | [rotating-nav](11-rotating-nav)            | [Live Demo](https://yuleizhu-raymond.github.io/js-50days-custom/11-rotating-nav/index.html)     |
 | ... | ...                                        | ...                                                                                             |
